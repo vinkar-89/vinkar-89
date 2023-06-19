@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🛠️ Computer Science Undergraduate at Indian Institute of Technology Madras 
-- 🔧 Currently learning Flutter and Advanced Python
-- 💡 Currently working on building a calorie counting app  - Khalories 
+- 🔧 Currently Advanced Python 
+- 💡 Built a calorie counting app using Flutter  - Khalories 
 - 😁 Pronouns: The obvious
 
 <!--
