@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🛠️ Computer Science Undergraduate at Indian Institute of Technology Madras 
-- 🔧 Currently Advanced Python 
+- 🔧 Currently Advanced Python and Machine Learning
 - 💡 Built a calorie counting app using Flutter  - Khalories 
-- 😁 Pronouns: The obvious
 
 <!--
 **vinkar-89/vinkar-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
