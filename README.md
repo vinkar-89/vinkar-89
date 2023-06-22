@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋  I'm Nidhay Reddy
 - 🛠️ Computer Science Undergraduate at Indian Institute of Technology Madras 
 - 🔧 Currently Advanced Python and Machine Learning
-- 💡 Built a calorie counting app using Flutter  - Khalories 
+- 💡 Built a calorie counting app using Flutter  - Khalories
+- ⚙  Built a simple hotel reservation system in C++
 
 <!--
 **vinkar-89/vinkar-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
